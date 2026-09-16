@@ -1,0 +1,9 @@
+1-expressions régulière : module re in python.
+2-le débogage en Python
+3-gestion des erreurs (try except else finally)
+4-what-is-name-mangling-and-how-does-it-work
+5-abstraction & interface
+6-Map & Hashmap & set
+7-algo de recherche et de tri
+8-graph & tree
+9-programmation dynamique: résoudre des problèmes et les implémenter
